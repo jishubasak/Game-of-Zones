@@ -34,4 +34,4 @@ For Data Wrangling and Manipulation, we will use text manipulation techniques li
 7. KMeans Clustering: Indentifying clusters,computing SSE and Inertia validation metrics, building wordcloud visualization based on number of clusters
 8. Results and Conclusion
 
-To view the project, explore the jupyter notebook
+To view the project, explore the jupyter notebook/ HTML file
